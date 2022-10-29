@@ -11,7 +11,7 @@ Responsive Ecommerce Website
 <br>
 
 <p align="center">
-  <img alt="dev.finances" src="./assets/devfinances.png" width="100%">
+  <img alt="Ecommerce website" src="assets/img/ecommerce.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
