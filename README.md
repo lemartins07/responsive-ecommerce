@@ -1,7 +1,34 @@
-# Responsive Ecommerce Website
-## [Watch it on youtube](https://youtu.be/74UVy9gomVs)
-### Responsive Ecommerce Website
-Beautiful responsive ecommerce website, it has multiple sections such as a home, featured products, new arrivals, and much more. Fully responsive and mobile first.
+<h1 align="center">
+Responsive Ecommerce Website
+</h1>
 
-Don't forget to join the channel for more videos like this.
-[Bedimcode](https://www.youtube.com/c/Bedimcode)
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
+
+<br>
+
+<p align="center">
+  <img alt="dev.finances" src="./assets/devfinances.png" width="100%">
+</p>
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML
+- CSS
+- JavaScript
+
+## 💻 Projeto
+
+Um site de ecommerce responsivo. 
+
+
+## :memo: Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+
+---
