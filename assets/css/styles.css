@@ -324,8 +324,32 @@ img {
 }
 
 /*===== OFFER =====*/
+.offer__bg{
+  background: url('/assets/img/offer.jpg') no-repeat center/cover;
+  text-align: center;
+}
 
+.offer__data{
+  padding: 3.5rem .25rem;
+  background: rgba(0, 0, 0, .5);
+  color: var(--white-color);
+}
 
+.offer__title {
+  font-size: var(--h1-font-size);
+  letter-spacing: .2rem;
+  text-transform: uppercase;
+  font-weight: var(--font-semi);
+}
+
+.offer__description {
+  margin-bottom: var(--mb-2);
+  letter-spacing: .2rem;
+}
+
+.offer .button {
+  text-transform: uppercase;
+}
 /*===== NEW ARRIVALS =====*/
 
 
